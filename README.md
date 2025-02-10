@@ -1,2 +1,2 @@
-# gsm-portfolio
- 
+# GerardMS.com
+ Portfolio Web
